@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-18T09:17:20.634957587Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-19T00:49:37.377906985Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f3af65d2-5060-4c10-b4b7-3544283c4c51",
     "homepageId": "0918d4db-8135-4fb3-a283-04d3b981cdba"
@@ -881,7 +881,16 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "dd721ec0-7123-4f6e-8574-b5109192b41d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/logo/1779151418442-afjfvxa8gf.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
@@ -1112,8 +1121,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "대중교통 이용시",
+                "description": "남해시외버스터미널에서 남면 방면 버스 이용 후 \n인근 정류장 하차 시 방문 가능합니다.\n자세한 버스 시간은 남해시외버스터미널 또는 \n버스 앱을 참고 부탁드립니다."
               }
             }
           ]
@@ -1122,7 +1131,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "남해 아침햇살 펜션",
                 "images": [
                   {
                     "id": "0ab70e9e-45d6-4cfd-8092-00954e16f8c9",
@@ -1133,9 +1142,25 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "남해 아침햇살 펜션은 탁 트인 남해안 오션뷰와 \n함께 여유로운 휴식을 즐길 수 있는 힐링 공간입니다.\n객실 안에서 아름다운 바다 풍경과 따뜻한 아침햇살을 함께 감상하실 수 있습니다.\n일출과 함께 시작되는 특별한 하루는 여행의 순간을 더욱 감성적으로 만들어줍니다.\n조용한 바다와 편안한 공간 속에서 일상의 피로를 내려놓고 온전한 쉼을 느껴보세요.\n남해의 아름다운 풍경과 함께 잊지 못할 힐링 여행을 선물해드립니다."
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "54efc955-4794-404a-9bc0-6665c409d0db",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/main_about/1779151559817-ob6wmahwy9.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "31f6408c-7bb6-4989-b949-024f65ee9bc3"
+                    }
+                  ],
+                  "blockId": "31f6408c-7bb6-4989-b949-024f65ee9bc3",
+                  "description": "탁 트인 전경을 바라보며 여유로운 휴식을 즐길 수 있는 공간\n따뜻한 불멍과 프라이빗한 개별 바베큐로 특별한 시간을 만나보세요."
+                }
+              ]
             }
           ]
         },
@@ -1145,7 +1170,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "c8f1795d-dffc-4a7e-92e4-748947504387",
