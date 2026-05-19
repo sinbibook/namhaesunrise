@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-19T00:49:37.377906985Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-19T00:51:02.506183050Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f3af65d2-5060-4c10-b4b7-3544283c4c51",
     "homepageId": "0918d4db-8135-4fb3-a283-04d3b981cdba"
@@ -1253,11 +1253,132 @@
             "family": "Cormorant"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F8F6F2",
+          "secondary": "#866B62"
+        }
       },
       "property": {
         "name": "남해 아침햇살펜션",
-        "images": [ ],
+        "images": [
+          {
+            "id": "2f35a189-b4f6-49dc-a91c-58febf9b5ecc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_thumbnail/1779151842725-su4r77899d.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "6471f4cf-74f9-46a4-b82e-005e94ffcb87",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842774-l0gxyozzld.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "6df41025-76ef-4e57-821c-df0e90a475f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842743-rbh2myp27z.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "2ad17882-75aa-4eea-8e44-4c92460181b6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842738-jbz2zs9od9.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "ded9cd81-cef7-4b70-a130-4a59b4b6b9ac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842740-dxqngilny6.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "eca214d9-8b1b-4ced-9f96-9ab603981a1d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842753-9g8i2j27cr.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "5e3b4d8f-9003-46d7-9466-3cee15ef3175",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842776-hptlr1e2tj.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "4b8a9e94-3eaf-49c7-99d8-665b5eac7555",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842775-d4odo82wcz.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c7d912a2-76b1-4d04-853b-c789e0416c3c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842778-10v3do5dmy.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "4230cf94-0aca-4ffe-918b-770a43946e21",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842779-t671npbeew.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "8a0f780a-ad20-4fda-9b4c-23ea649b4a91",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842754-5c2axt3h3u.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "ee87c42e-64a6-433a-9bef-d211e1bcf513",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842790-fvpk6wg3e5.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "684f9b01-f687-436b-9d4e-c658a7bb40e1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0918d4db-8135-4fb3-a283-04d3b981cdba/property_exterior/1779151842794-sihgy08sze.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Namhae Morning Sunshine Pension"
       },
       "roomtypes": [
