@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-05-19T08:52:35.778311547Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-06-09T06:58:27.513416133Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f3af65d2-5060-4c10-b4b7-3544283c4c51",
     "homepageId": "0918d4db-8135-4fb3-a283-04d3b981cdba"
@@ -15,7 +15,7 @@
     "address": "경남 남해군 남면 남면로 835",
     "latitude": 34.7246807577462,
     "longitude": 127.883098701906,
-    "contactPhone": "",
+    "contactPhone": "010-8308-4415",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -609,7 +609,7 @@
       "roomStructures": [
         "원룸형"
       ],
-      "status": "inactive",
+      "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
         "checkin": "15:00",
